@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Kotlin related to the `removeIf` function. The `removeIf` function behaves differently when used with mutable lists versus mutable sets, potentially leading to unexpected outcomes.  The `bug.kt` file shows the unexpected behaviour, and `bugSolution.kt` provides a solution to overcome this.
